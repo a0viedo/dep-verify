@@ -1,6 +1,6 @@
 {
   "name": "dep-verify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validation checks for your dependencies",
   "main": "./bin/dep-verify.js",
   "bin": "./bin/dep-verify.js",
