@@ -1,0 +1,32 @@
+{
+  "name": "dep-verify",
+  "version": "1.0.0",
+  "description": "Validation checks for your dependencies",
+  "main": "./bin/dep-verify.js",
+  "bin": "./bin/dep-verify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dependencies",
+    "verification"
+  ],
+  "author": "Alejandro Oviedo <alejandro.oviedo.g@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "find": "^0.2.9",
+    "pino": "^5.10.5",
+    "promise-any": "^0.2.0",
+    "registry-url": "^3.0.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "sha1-file": "^1.0.4",
+    "targz": "^1.0.1",
+    "yargs": "^4.8.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a0viedo/dep-verify"
+  }
+}
