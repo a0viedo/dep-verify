@@ -14,7 +14,7 @@
   "author": "Alejandro Oviedo <alejandro.oviedo.g@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "find": "^0.2.9",
+    "find": "^0.3.0",
     "pino": "^5.10.5",
     "promise-any": "^0.2.0",
     "registry-url": "^3.0.3",
