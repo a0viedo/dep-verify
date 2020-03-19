@@ -17,7 +17,7 @@
     "find": "^0.2.9",
     "pino": "^5.10.5",
     "promise-any": "^0.2.0",
-    "registry-url": "^3.0.3",
+    "registry-url": "^5.1.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
     "sha1-file": "^1.0.4",
