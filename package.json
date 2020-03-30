@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "find": "^0.3.0",
-    "pino": "^5.10.5",
+    "pino": "^6.0.0",
     "promise-any": "^0.2.0",
     "registry-url": "^5.1.0",
     "request": "^2.88.0",
