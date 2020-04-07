@@ -20,7 +20,7 @@
     "registry-url": "^5.1.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
-    "sha1-file": "^1.0.4",
+    "sha1-file": "^2.0.0",
     "targz": "^1.0.1",
     "yargs": "^15.3.1"
   },
