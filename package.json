@@ -22,7 +22,7 @@
     "request-promise": "^4.2.2",
     "sha1-file": "^2.0.0",
     "targz": "^1.0.1",
-    "yargs": "^15.3.1"
+    "yargs": "^17.1.0"
   },
   "devDependencies": {},
   "repository": {
